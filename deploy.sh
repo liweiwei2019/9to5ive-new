@@ -2,7 +2,7 @@
 set -euo pipefail
 
 STACK_NAME="app-hackatho-rise94f7a1bc-stack"
-ARTIFACTS_BUCKET="app-hackatho-rise94f7a1bc-artifacts"
+ARTIFACTS_BUCKET="app-hackatho-rise94f7a1bctest-artifacts"
 REGION="ap-southeast-1"
 
 echo "==> [1/8] Ensuring artifacts S3 bucket exists..."
